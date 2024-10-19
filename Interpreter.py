@@ -1,7 +1,4 @@
-# Eliron Barel: 209237478
-# Daniel Dahan: 318840196
-# Or Avital: 207779802
-# Oleg Eli Muraviov lafer:321163446
+
 """
 Simple Interpreter
 
